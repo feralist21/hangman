@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Игра - виселица",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feralist21/hangman.git"
+  },
+  "author": "Alexandr Dementev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feralist21/hangman/issues"
+  },
+  "homepage": "https://github.com/feralist21/hangman#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
